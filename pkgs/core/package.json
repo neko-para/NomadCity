@@ -1,0 +1,10 @@
+{
+  "name": "@aknc/core",
+  "main": "src/index.ts",
+  "dependencies": {
+    "@vue/reactivity": "^3.3.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
